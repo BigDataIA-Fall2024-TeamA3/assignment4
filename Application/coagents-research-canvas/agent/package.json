@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pinecone-database/pinecone": "^4.0.0",
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36"
+  }
+}
