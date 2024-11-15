@@ -1,0 +1,17 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Investment Horizon, Serial Correlation, and Better (Retirement) Portfolios",
+            "uuid4": "7a55513f-bca7-4d2e-9d65-1b4416d21ea4",
+            "s3_path": "https://bigdata7245.s3.amazonaws.com/staging/pdfs/Investment%20Horizon%2C%20Serial%20Correlation%2C%20and%20Better%20%28Retirement%29%20Portfolios.pdf",
+            "s3_frontpage_url": "https://bigdata7245.s3.amazonaws.com/staging/images/Investment%20Horizon%2C%20Serial%20Correlation%2C%20and%20Better%20%28Retirement%29%20Portfolios.jpg",
+            "s3_images_desc_url": "",
+            "s3_images_folder": "",
+            "s3_images": [],
+            "local_file_path": "/Users/nivedhithaagovindaraj/workspace/p1_a4/sample_data/7a55513f-bca7-4d2e-9d65-1b4416d21ea4.pdf",
+            "pinecone_index": "",
+            "summary": "Describing the risks of an opportunity set of investments using only returns and covariances, which is common in approaches such as mean\u2013variance optimization, implies that returns are independent (or random) across time. In reality, investments have historically exhibited varying levels of serial dependence, where the returns evolve nonrandomly for individual investments (i.e., autocorrelation) and across investments. This paper explores how the optimal allocation to equities, the value and small factors, and commodities has varied for different holding periods using actual historical time-series data, where optimal portfolios are determined using a utility function assuming constant relative risk aversion. The analysis demonstrates that optimal allocations can vary materially across investment periods, especially for more risk-averse investors who are concerned with inflation risk (e.g., retirees). Therefore, investment professionals need to actively consider serial dependence when building portfolios for clients to ensure these portfolios are best aligned to help clients accomplish their goals."
+        }
+    ]
+}
